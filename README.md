@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm ojlvr</h1>
-<h3 align="center">🚀 I build things with data, cloud & code.</h3>
+<h1 align="center">Hi, I'm ojlvr :)</h1>
+<h3 align="center">I build things with data, cloud & code.</h3>
 
 
 ### GitHub Stats
