@@ -8,6 +8,5 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ojluvr&layout=compact&theme=radical)
 
-[![GitHub Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=ojluvr&theme=dracula)](https://github.com/Ashutosh00710/github-readme-activity-graph)
 
 
